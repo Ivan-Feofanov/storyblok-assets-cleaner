@@ -44,3 +44,5 @@ changelog:
     exclude:
       - "^docs:"
       - "^test:"
+
+force_token: github
