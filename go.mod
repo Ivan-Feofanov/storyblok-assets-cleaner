@@ -1,4 +1,4 @@
-module github.com/ivan-feofanov/storyblok-assets-cleaner
+module github.com/Ivan-Feofanov/storyblok-assets-cleaner
 
 go 1.21
 
